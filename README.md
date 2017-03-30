@@ -1,5 +1,5 @@
-mqttclient-client-example
-=========================
+mqtt-client-example
+===================
 
 MQTT client example written in python that subscribes to a topic at the Eclipse IoT broker and print received messages.
 Based on example from https://eclipse.org/paho/clients/python/
